@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:cruel-season-website}/cruel_season.db",
+            "name": "Cruel Season DB"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
